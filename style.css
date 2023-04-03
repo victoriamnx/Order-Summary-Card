@@ -1,0 +1,184 @@
+@import url("https://fonts.googleapis.com/css2?family=Red+Hat+Display:wght@500;700;900&display=swap");
+
+* {
+  border: 0;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+  font-family: "Red Hat Display";
+  font-weight: 500;
+  color: hsl(224, 23%, 55%);
+  background-color: hsl(225, 100%, 94%);
+}
+
+#background {
+  position: fixed;
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100;
+  z-index: 0;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  font-size: 16px;
+  font-family: "Red Hat Display";
+  border-radius: 20px;
+  background-color: hsla(0, 0%, 100%, 1);
+  z-index: 1;
+}
+
+#ilustration {
+  border-radius: 20px 20px 0px 0px;
+}
+
+.container #title {
+  font-size: 30px;
+  font-weight: 900;
+  font-family: "Red Hat Display";
+  color: hsl(223, 47%, 23%);
+  padding-top: 20px;
+}
+
+.container #desciption {
+  text-align: center;
+  font-size: 16px;
+  font-weight: 500;
+  font-family: "Red Hat Display";
+  color: hsl(224, 23%, 55%);
+  padding: 10px;
+}
+
+#music {
+  padding-left: 10px;
+}
+
+.container #price {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 80%;
+  font-size: 16px;
+  font-weight: 700;
+  font-family: "Red Hat Display";
+  color: hsl(224, 23%, 55%);
+  background-color: hsla(230, 75%, 98%, 1);
+  padding: 20px;
+  margin-top: 10px;
+  margin-bottom: 30px;
+  border-radius: 10px;
+}
+
+.container #info {
+  margin-right: 98px;
+  padding-left: 20px;
+}
+
+.container #info h1:first-child {
+  font-size: 16px;
+  font-weight: 900;
+  white-space: nowrap;
+  font-family: "Red Hat Display";
+  color: hsl(223, 47%, 23%);
+  margin-bottom: 2px;
+}
+
+.container #info h1:last-child {
+  font-size: 16px;
+  font-weight: 500;
+  font-family: "Red Hat Display";
+  color: hsl(224, 23%, 55%);
+}
+
+.container #price h2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 16px;
+  font-weight: 900;
+  font-family: "Red Hat Display";
+  color: hsl(245, 75%, 52%);
+  text-decoration: underline;
+}
+
+.container #price h2:hover {
+  color: hsla(244, 73%, 67%, 1);
+  text-decoration: none;
+}
+
+#option {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 16px;
+  font-weight: 900;
+  font-family: "Red Hat Display";
+  color: hsl(224, 23%, 55%);
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+#option:hover {
+  color: hsl(223, 47%, 23%);
+}
+
+button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 80%;
+  font-size: 16px;
+  font-weight: 700;
+  font-family: "Red Hat Display";
+  color: hsl(225, 100%, 98%);
+  background-color: hsl(245, 75%, 52%);
+  box-shadow: hsla(244, 73%, 67%, 0.6) 0px 7px 29px 0px;
+  padding: 15px;
+  border-radius: 10px;
+}
+
+button:hover {
+  background-color: hsla(244, 73%, 67%, 1);
+}
+
+.attribution {
+  font-family: "Red Hat Display";
+  padding-top: 10px;
+  font-size: 11px;
+  font-weight: 500;
+  text-align: center;
+  z-index: 1;
+}
+.attribution a {
+  color: hsl(245, 75%, 52%);
+}
+
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:active {
+  text-decoration: underline;
+}
