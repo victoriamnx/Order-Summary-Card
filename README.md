@@ -13,10 +13,6 @@ This is a solution to the [https://www.frontendmentor.io/challenges/order-summar
 
 # Result
 
-![Screenshot 2023-04-03 194831](https://user-images.githubusercontent.com/96449803/229646151-c076a3ec-9284-49ee-b00a-dabca780d17b.png)
-![Screenshot 2023-04-03 194920](https://user-images.githubusercontent.com/96449803/229646170-e1fc5104-3de6-414f-9d46-b44de63d4e87.png)
-
-
 # Links
 
 - Solution URL: [https://github.com/victoriamnx/Order-Summary-Card]
