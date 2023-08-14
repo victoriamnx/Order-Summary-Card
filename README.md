@@ -1,4 +1,4 @@
-# Frontend Mentor - Order summary component Challenge
+# Frontend Mentor - Order summary component 
 
 This is a solution to the [Order summary component challenge](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj).
 
@@ -12,6 +12,9 @@ This is a solution to the [Order summary component challenge](https://www.fronte
 - [Acknowledgments](#acknowledgments)
 
 # Result
+
+![image](https://github.com/victoriamnx/Order-Summary-Card/assets/96449803/d23f022b-a59c-4122-a852-1759bbfae8b7)
+![image](https://github.com/victoriamnx/Order-Summary-Card/assets/96449803/187d6f12-b41e-44b1-9e9c-36bfa7a998d5)
 
 # Links
 
